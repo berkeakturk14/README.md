@@ -22,13 +22,18 @@ I  work as a FreeLancer 🆓.
 
 ### 🔧 Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/javascript/javascript.png" />][javascript]
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][java]
-[<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/html/html.png" />][html]
-[<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/css/css.png" />][css]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/react/react.png" />][react]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/berkeakturk14) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/in/berke-aktürk-337bb2145//)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/berkeakturk14/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/BerkeAktrk)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://www.python.org)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](https://html.com)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](https://www.w3schools.com/css/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'>](https://reactjs.org)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unrealengine.svg' alt='unrealengine' height='40'>](https://www.unrealengine.com/en-US)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sqlite.svg' alt='sqlite' height='40'>](https://www.sqlite.org/index.html)  
+
 
 
 
@@ -51,10 +56,3 @@ I  work as a FreeLancer 🆓.
 <br />
 <br />
 
-[instagram]: https://www.instagram.com/berkeakturk14
-[linkedin]: https://www.linkedin.com/in/berke-aktürk-337bb2145/
-[gmail]: mailto:berkeakturk14@gmail.com
-[vsCode]: https://code.visualstudio.com/
-[git]: https://git-scm.com/
-[github]: https://github.com/IbrahimTalha0
-[python]: https://www.python.org/
